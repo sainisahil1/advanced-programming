@@ -1,8 +1,10 @@
 package io.sahil.assignmentone;
 
-import stanford.karel.Karel;
 import stanford.karel.SuperKarel;
 
+/**
+ * @author Sahil Saini
+ */
 public class PyramidKarel extends SuperKarel {
 
     public static void main(String[] args) {

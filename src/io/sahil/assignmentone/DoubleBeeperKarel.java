@@ -2,6 +2,9 @@ package io.sahil.assignmentone;
 
 import stanford.karel.Karel;
 
+/**
+ * @author Sahil Saini
+ */
 public class DoubleBeeperKarel extends Karel {
 
     public static void main(String[] args) {

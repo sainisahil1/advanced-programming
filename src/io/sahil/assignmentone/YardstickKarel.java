@@ -2,6 +2,9 @@ package io.sahil.assignmentone;
 
 import stanford.karel.SuperKarel;
 
+/**
+ * @author Sahil Saini
+ */
 public class YardstickKarel extends SuperKarel {
 
     public static void main(String[] args) {

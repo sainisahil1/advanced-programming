@@ -8,7 +8,6 @@ import acm.program.GraphicsProgram;
 
 import java.awt.*;
 import java.awt.event.KeyEvent;
-import java.awt.event.MouseEvent;
 
 /**
  * This class demonstrates Pong game animation using ACM library.
