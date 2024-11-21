@@ -1,4 +1,4 @@
-package io.sahil.assignmentone;
+package io.sahil.assignment1;
 
 import stanford.karel.Karel;
 
