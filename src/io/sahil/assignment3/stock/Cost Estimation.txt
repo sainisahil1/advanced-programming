@@ -1,0 +1,6 @@
+Cost Estimation for Stock Problem
+
+OPs = 4* classes + 3* methods + 2* interfaces + attributes + parameters
+
+For our case,
+OPs = 4 * 3 + 3 * 22 + 2 * 0 + 11 + 16 = 105 Object points
