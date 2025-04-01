@@ -1,0 +1,2 @@
+1. Rename, Extract method, extract class
+2. No

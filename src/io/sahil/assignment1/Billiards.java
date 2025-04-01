@@ -115,6 +115,7 @@ public class Billiards extends GraphicsProgram {
         vx = deltaX / length;
         vy = deltaY / length;
         addSpeedToBall(deltaX, deltaY);
+
     }
 
     /**

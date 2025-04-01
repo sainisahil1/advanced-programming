@@ -1,4 +1,4 @@
-package io.sahil;
+package io.sahil.assignment4;
 
 import acm.graphics.GRect;
 import acm.program.GraphicsProgram;
@@ -6,14 +6,16 @@ import acm.program.GraphicsProgram;
 import java.awt.*;
 
 /**
+ * This class represents a graphical representation of random generator
+ *
  * @author Sahil Saini
  */
-public class MyRandomGenerator extends GraphicsProgram {
+public class Randomness extends GraphicsProgram {
 
     private int SIZE = 400;
 
     public static void main(String[] args) {
-        new MyRandomGenerator().start();
+        new Randomness().start();
     }
 
     @Override
@@ -23,7 +25,7 @@ public class MyRandomGenerator extends GraphicsProgram {
 
     @Override
     public void run() {
-        for (int i = 0; i < Integer.MAX_VALUE; i++) {
+        for (int i = 0; i < 100000; i++) {
             int x = giveMeRandomNumber(SIZE);
             pause(giveMeRandomNumber(5));
             int y = giveMeRandomNumber(SIZE);

@@ -1,0 +1,13 @@
+1. Levenshtein
+"flaw" -> "lawn"
+delete 'f' in the beginning
+insert 'n' at the end
+Distance = 2
+
+"algorithm" -> "logarithm"
+switch 'a' with 'l'
+"llgorithm"
+replace second 'l' with 'o'
+"logorithm"
+replace second 'o' with 'a'
+"logarithm"

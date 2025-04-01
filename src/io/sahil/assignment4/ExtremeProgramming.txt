@@ -1,0 +1,38 @@
+1. Pair programming allows a thorough review of code.
+Problems are solved faster. Code quality increases.
+Although, it is better to hire skilled developers in the first place for major/high priority work.
+
+2. Personal desk checking of code is informal review by the developer before sharing their code.
+It detects bugs/error early in the software engineering lifecycle.
+It is also cost-effective.
+
+3. Personal desk-checking of code:
+Advantages:
+- Cost effective
+- Early error detection
+- Saves debugging time
+- No extra tools needed
+
+Disadvantages:
+- Time consuming
+- No runtime validation
+- Few use cases or logic might be missed in integration phase
+
+Unit testing:
+Advantages:
+- Validation is done at runtime
+- Reusable
+- Catches runtime errors
+
+Disadvantages:
+- Time consuming
+- Requires tools
+- Does not cover 100% use cases. Scope limited to test cases written.
+
+4. Without a formal code review, it is easy to suggest that the company put more focus on code delivery rather than code quality.
+
+5. Team velocity is the combined output of the team rather than individuals.
+It helps estimate how much work can a team handle in a sprint based on story points.
+Individual velocity is the work completed by an individual in a sprint.
+Good tool to for self-assessment.
+Both the tools can be used to provide future task estimations.

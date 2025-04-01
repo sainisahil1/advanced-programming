@@ -35,6 +35,7 @@ public class PyramidKarel extends SuperKarel {
         putFirstLineOfBeepers();
         pickBeeper();
         turnAround();
+
         move();
     }
 

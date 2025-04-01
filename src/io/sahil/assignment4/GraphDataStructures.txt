@@ -1,0 +1,14 @@
+1. Dijkstra's Algorithm gives the shortest path from a source vertex
+whereas Kruskal's gives the minimum spanning tree, which in laymen language is a common shortest path
+which covers the use case for all nodes (Big-Oh of the travel).
+
+4. Shortest path from A to E is A->B->C->E with total cost of 8 units
+
+5.
+i. Vertices: researchers, Edges: number of shared literature, Loops: Independent literature
+ii. Vertices: Classes, Directed Edges: inheritance
+iii. Vertices: Electrical appliances, Edges: Connections
+iv. Vertices: POIs, Edges: Roads
+v. Vertices: IP address, Edges: Connection routes
+
+6. L16 -> L32 -> L15 -> L31 -> L22 -> L169 -> L141

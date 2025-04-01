@@ -1,11 +1,9 @@
 <component name="libraryTable">
   <library name="acm">
     <CLASSES>
-      <root url="jar://$USER_HOME$/eclipse/acm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/acm.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES>
-      <root url="jar://$USER_HOME$/eclipse/acm.jar!/" />
-    </SOURCES>
+    <SOURCES />
   </library>
 </component>
